@@ -6,8 +6,8 @@ Pour cette séance de travaux pratiques, nous utiliserons Neo4j Aura pour créer
 - [Création de l'instance](#création-de-linstance)
 - [Connexion à l'instance Neo4j Aura](#connexion-à-linstance-neo4j-aura)
 
-## **Créer une instance gratuite Neo4j Aura**
-Rendez-vous sur la page d'accueil de Neo4j Aura : https://neo4j.com/cloud/aura/.
+## **Créer une instance gratuite Neo4j AuraDB**
+Rendez-vous sur la page d'accueil de Neo4j AuraDB : https://neo4j.com/cloud/aura/.
 
 Cliquez sur **Start Free** pour démarrer le processus de création d'un compte gratuit.
 
