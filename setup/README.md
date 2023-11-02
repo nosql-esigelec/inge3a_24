@@ -1,4 +1,3 @@
-# Inge 3A 2024
 # Configurations
 
 ## Créer des comptes BDD Cloud
