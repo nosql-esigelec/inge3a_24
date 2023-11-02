@@ -32,6 +32,8 @@ Dans le tableau de bord, cliquez sur **Instances**, puis sur **Create Free Insta
 
 Il vous sera demandé de télécharger un fichier de configuration contenant les informations de connexion. Gardez ce fichier en lieu sûr.
 
+![download-password](..data/images/download-password.png)
+
 ### **Provisionnement de l'instance**
 Attendez que l'instance soit complètement provisionnée. Cela peut prendre quelques minutes.
 
