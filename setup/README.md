@@ -5,7 +5,7 @@
 Avant de commencer notre séance de lundi, il est **fortement recommandé** de suivre les instructions dossier. 
 Cela vous permettra de profiter pleinement du temps que nous avons pendant les séances(**notamment de TP**), en évitant des retards dus à la configuration pendant le cours.
 
-N.B: J'insiste sur l'importance d'anticiper d'éventuels aléa de connexion internet ou autre.
+> N.B: J'insiste sur l'importance d'anticiper d'éventuels aléa de connexion internet ou autre.
 
 ## Instructions(10 min)
 
