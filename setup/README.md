@@ -1,13 +1,14 @@
 # Inge 3A 2024
 # Configurations
 
-Avant de commencer notre séance de lundi, il est **fortement recommandé** de suivre les instructions dans les guides de configuration inclus dans ce dépôt. 
+## Créer des comptes BDD Cloud
+
+Avant de commencer notre séance de lundi, il est **fortement recommandé** de suivre les instructions dossier. 
 Cela vous permettra de profiter pleinement du temps que nous avons pendant les séances(**notamment de TP**), en évitant des retards dus à la configuration pendant le cours.
 
-N.B: J'insiste sur l'importance de ne pas dépendre de la connexion de l'école pour avoir effectuer tout ceci.
+N.B: J'insiste sur l'importance d'anticiper d'éventuels aléa de connexion internet ou autre.
 
 ## Instructions(10 min)
-
 
 1. **MongoDB** ⚠️ Indispensable pour la première séance
 
