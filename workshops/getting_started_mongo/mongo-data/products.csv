@@ -1,0 +1,11 @@
+ProductName,Price,Quantity,Tags
+1 Gallon Soy Milk,2.5,12,"[""milk"",""soy""]"
+1 Gallon Almond Milk,2.75,22,"[""milk""]"
+Six Pack Soda,3,3,"[""soda"",""pack""]"
+Chocolate Bar,1,4,"[""cacao"",""chocolate""]"
+Paper Towels,1.25,8,[]
+Red Wine,14,3,"[""alcohol"",""wine""]"
+Salt and Vinegar Chips,2.25,22,"[""salt"",""chips"", ""apero""]"
+Barbecue Chips,2.25,1,"[""apero"",""chips""]"
+Gatorade,2,21,[]
+Breath Mints,0.5,11,[]
