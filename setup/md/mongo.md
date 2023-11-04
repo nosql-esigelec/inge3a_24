@@ -83,6 +83,8 @@ Consultez et sélectionnez des bases de données et collections dans l'onglet Co
 
 Une fois que vos données sont chargées, suivez la suite des instructions.
 
+# Facultatif
+<span style="background:red; color:white"><b>Attention :</b> Tout ce qui suit est facultatif!</span>
 ## **Installer MongoDB server**
 Télécharger le serveur Mongo DB via le lien suivant :
 https://www.mongodb.com/try/download/community

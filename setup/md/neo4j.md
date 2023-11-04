@@ -52,4 +52,4 @@ Gardez en tête que les captures d'écran sont des exemples et pourraient légè
 
 Nous utiliserons cette instance dans nos futures séances de travaux pratiques pour apprendre à manipuler et interroger des bases de données graphiques.
 
-*Note : Les images placeholder doivent être remplacées par les captures d'écran appropriées correspondant à chaque étape décrite.*
+
