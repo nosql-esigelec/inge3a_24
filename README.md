@@ -1,26 +1,38 @@
-# Inge 3A 2024
-# Bienvenue dans le dépôt consacré aux cours de NoSQL
+# NoSQL - Ressources et Projets
 
-Avant de commencer notre séance de lundi, il est **fortement recommandé** de suivre les instructions dans les guides de configuration inclus dans ce dépôt. Cela vous permettra de profiter pleinement du temps que nous avons pendant les séances(**notamment de TP**), en évitant des retards dus à la configuration pendant le cours.
+Ce dépôt est le centre de ressources pour le cours NoSQL que vous suivrez. Ici, vous trouverez tout le matériel nécessaire pour les sessions théoriques, les formations pratiques et les sprints de développement liés à notre projet phare, **ProjOps**.
 
-N.B: J'insiste sur l'importance de ne pas dépendre de la connexion de l'école pour avoir effectuer tout ceci.
+## Organisation du Dépôt
 
-## Structure du dépôt
+L'organisation de ce dépôt est conçue pour vous aider à naviguer à travers les différentes composantes du cours et du projet. Voici un aperçu de la structure et de la finalité de chaque partie :
 
-- 📂 `data`
-  - 📂 `images` : Contient les images nécessaires pour les guides de configuration.
-- 📜 `LICENSE` : Le fichier de licence du projet.
-- 📜 `README.md` : Le fichier que vous lisez actuellement.
-- 📂 `setup` : Contient les guides de configuration.
-  - 📜 `mongo.md` : Instructions pour la configuration de MongoDB.
-  - 📜 `neo4j.md` : Instructions pour la configuration de Neo4j Aura.
+### `assets/`
+Contient toutes les images et les fichiers multimédia utilisés dans le contenu du cours et les documents de formation.
 
-## Instructions(10 min)
+### `courses/`
+Ici, vous trouverez le contenu théorique sous forme de fichiers Markdown pour chaque session de cours. Consultez ces documents après les sessions de cours pour compléter votre apprentissage.
 
-1. Naviguez dans le dossier `setup`.
-2. Ouvrez et suivez les instructions dans `mongo.md` pour configurer MongoDB.
-3. Ensuite, ouvrez et suivez les instructions dans `neo4j.md` pour configurer Neo4j Aura.
+### `resources/`
+Ce dossier est une bibliothèque de ressources supplémentaires telles que des articles, des tutoriels, et des liens utiles qui enrichiront votre compréhension des bases de données NoSQL.
 
-Prendre le temps de compléter ces étapes à l'avance vous assurera que vous êtes prêt à suivre et participer activement pendant la séance.
+### `setup/`
+Comprend des instructions détaillées et des scripts pour configurer l'environnement de développement dont vous aurez besoin pour les sessions pratiques et les sprints de développement du projet.
 
-Merci et à Lundi ! 
+### `training/`
+Fournit des guides pas à pas et des données d'exemple pour vous familiariser avec les outils NoSQL que nous utiliserons, tels que MongoDB et Neo4j.
+
+## ProjOps - Le Projet fil rouge
+
+Le projet **ProjOps** est un projet de développement en direct qui s'étend sur trois sprints, chacun avec ses propres objectifs, défis et livrables. Le code et la documentation spécifiques au projet sont gérés dans un dépôt GitHub séparé, spécifiquement organisé pour faciliter le travail en sprint et la collaboration en équipe.
+
+### Pourquoi Deux Dépôts ?
+
+- **Dépôt général (ce dépôt)**: Sert de ressource éducative et de référence pour les aspects théoriques et les connaissances générales nécessaires pour aborder le projet pratique. Il doit être consulté pour la préparation aux sessions de cours, l'apprentissage autonome et la préparation du contrôle.
+- **Dépôt ProjOps**: Contient tout ce qui est nécessaire pour travailler sur le projet pratique. Les étudiants interagiront directement avec ce dépôt pour contribuer au code, consulter la documentation de sprint, et soumettre leurs travaux.
+
+
+
+## Support
+
+Si vous avez des questions ou avez besoin d'assistance, n'hésitez pas à ouvrir une issue ou à me contacter.
+
