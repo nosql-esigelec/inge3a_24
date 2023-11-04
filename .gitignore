@@ -1,2 +1,4 @@
 .obsidian
 archives
+.ipynb_checkpoints
+__pycache__
