@@ -9,8 +9,8 @@ services:
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
       MONGO_INITDB_ROOT_PASSWORD: example
-    # volumes:
-    #   - mongo-db:/data/db
+    volumes:
+      - mongo-db:/assets/db
   mongo-express:
     image: mongo-express
     container_name: mongo-express
@@ -24,7 +24,7 @@ services:
     depends_on:
       - mongo-server
   jupyter:
-    image: jupyter/datascience-notebook:latest
+    image: jupyter/assetsscience-notebook:latest
     container_name: jupyter
     ports:
       - 8888:8888
@@ -32,6 +32,5 @@ services:
       - .:/home/jovyan/work
     environment:
       JUPYTER_ENABLE_LAB: "yes"
-      JUPYTER_TOKEN: "docker"
-# volumes:
-#   mongo-db:
+volumes:
+  mongo-db:

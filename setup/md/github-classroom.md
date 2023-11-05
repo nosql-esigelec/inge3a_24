@@ -9,7 +9,7 @@ Guide pour accepter un devoir et cloner un dépôt Github Classroom.
 - Acceptez ensuite l'assignement
 - Un dépôt de code va s'auto-générer avec votre nom d'utilisateur Github comme préfixe.
     Ex(cf. Image): `https://github.com/nosql-esigelec/username-file-bfotzo`
-![[Pasted image 20231104105636.png]]
+![accpet](../../assets/images/accept-assignment.png)
  
 2. **Cloner votre dépôt d'assignement** :
    

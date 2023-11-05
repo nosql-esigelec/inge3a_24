@@ -17,27 +17,27 @@ En règle générale, pour l'efficacité des interactions avec le serveur, il es
 >Dans notre cas, il s'agit de **Paris** pour le provider AWS. Si l'on souhaite travailler avec Google Cloud, la région la plus proche est la Belgique.
 
 
-![cloud-provider-choice](../data/images/cloud-provider-choice.png)
+![cloud-provider-choice](../../assets/images/cloud-provider-choice.png)
 
 Une fois la région choisie, donner un nom au cluster.
 Les autres configurations ne sont pas à modifier.
 
-![create-cluster](../data/images/create-cluster.png)
+![create-cluster](../../assets/images/create-cluster.png)
 
 Cliquer sur **Create Cluster** pour valider l'opération.
 ### **Création d'un projet**
 Une fois un cluster créé, on peut ajouter un projet. Créer un projet en lui associant un nom.
 
-![create-a-project](../data/images/create-a-project.png)
+![create-a-project](../../assets/images/create-a-project.png)
 
 ### **Création d'une base de données**
 Une fois votre projet créée, créer une base de données à déployer rapidement. Cliquer sur **Build a Database**.
 
-![create-a-db](../data/images/create-a-db.png)
+![create-a-db](../../assets/images/create-a-db.png)
 
 Choisir l'option **Shared** une nouvelle fois, car elle gratuite.
 
-![shared-option](../data/images/shared-option.png)
+![shared-option](../../assets/images/shared-option.png)
 ### **Création d'un utilisateur**
 Créer un utilisateur (username+password) pour sa base de données.
 Vous pouvez utiliser ces identifiants, ou les personnaliser :
@@ -46,22 +46,22 @@ Vous pouvez utiliser ces identifiants, ou les personnaliser :
 
 <span style="background:red; color:white"><b>Attention :</b> Pour la suite des TPs, ne pas mettre de caractères spéciaux dans votre mot de passe.</span>
 
-![create-a-user](../data/images/create-a-user.png)
+![create-a-user](../../assets/images/create-a-user.png)
 
 Une fois l'utilisateur créée et la base de données provisionnée, il faut gérer l'accès réseau à cette dernière.
 ### **Sécurité réseaux**
 Dans cette étape, il faut spécifier les adresses IP depuis lesquelles un utilisateur peut se connecter.
 
-![network-security](../data/images/network-security.png)
+![network-security](../../assets/images/network-security.png)
 
 Les configurations terminées, on obtient cet écran avec une base de données déployée, à laquelle nous pourrons nous connecter plus tard.
 
-![database-deployed](../data/images/database-deployed.png)
+![database-deployed](../../assets/images/assetsbase-deployed.png)
 
 Afin de se connecter, nous aurons besoin d'une chaine de connexion. Récupérez là en cliquant sur **Connect**.
 Ensuite, choisissez **Connect using MongoDB Compass**, sélectionner votre système d'exploitation, puis copier l'URL de connexion qui ressemble à celle ci :  `mongodb+srv://brice:<password>@cluster0.5cy4vr9.mongodb.net/test`.
 
-![connect-with-compass](../data/images/connect-with-compass.png)
+![connect-with-compass](../../assets/images/connect-with-compass.png)
 
 Nous nous servirons de cette URL dans nos prochaines séances de TP.
 
@@ -112,7 +112,7 @@ Une fois l'installation terminée, ajouter le chemin `C:\Program Files\MongoDB\S
 -   Pour vérifier l'ajout de cette variable, ouvrir un terminal PowerShell:
 
     
-![](../data/images/shell.png)
+![](../../assets/images/shell.png)
   - Exécuter la commande suivante et vérifier que le chemin ajouté est bien dans la liste affichée
     ```PowerShell
     $env:PATH
@@ -126,14 +126,14 @@ Une fois téléchargée, extraire le contenu du fichier zip.
 Ensuite, naviguer jusqu'au dossier bin de cette librairie. Copier et coller le contenu (notamment le script `mongosh`) vers `C:\Program Files\MongoDB\Server\6.0\bin`.
 ## **Installer les outils Mongo**
 Télécharger la version zip des outils de BDD de Mongo DB
-https://www.mongodb.com/try/download/database-tools.
+https://www.mongodb.com/try/download/assetsbase-tools.
 Ensuite, naviguer jusqu'au dossier bin de cette librairie.
 
-![](../data/images/explorer-mongodb.png)
+![](../../assets/images/explorer-mongodb.png)
 
 Copier et coller le contenu (cf. image) vers `C:\Program Files\MongoDB\Server\6.0\bin`.
 
-![](../data/images/explorer-mongodb-tools.png)
+![](../../assets/images/explorer-mongodb-tools.png)
 Pour vérifier que ces scripts sont exécutables, ouvrir un nouveau terminal et exécutez quelques commandes.
 
 ```PowerShell

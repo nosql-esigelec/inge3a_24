@@ -1,6 +1,6 @@
 # NoSQL - Ressources et Projets
 
-Ce dépôt est le centre de ressources pour le cours NoSQL que vous suivrez. Ici, vous trouverez tout le matériel nécessaire pour les sessions théoriques, les formations pratiques et les sprints de développement liés à notre projet phare, **ProjOps**.
+Ce dépôt est le centre de ressources pour le cours NoSQL que vous suivrez. Ici, vous trouverez tout le matériel nécessaire pour les sessions théoriques, les formations pratiques et les sprints de développement liés à notre projet phare, **Gocod**.
 
 ## Organisation du Dépôt
 
@@ -21,14 +21,14 @@ Comprend des instructions détaillées et des scripts pour configurer l'environn
 ### `training/`
 Fournit des guides pas à pas et des données d'exemple pour vous familiariser avec les outils NoSQL que nous utiliserons, tels que MongoDB et Neo4j.
 
-## ProjOps - Le Projet fil rouge
+## Gocod - Le Projet fil rouge
 
-Le projet **ProjOps** est un projet de développement en direct qui s'étend sur trois sprints, chacun avec ses propres objectifs, défis et livrables. Le code et la documentation spécifiques au projet sont gérés dans un dépôt GitHub séparé, spécifiquement organisé pour faciliter le travail en sprint et la collaboration en équipe.
+Le projet **Gocod** est un projet de développement en direct qui s'étend sur trois sprints, chacun avec ses propres objectifs, défis et livrables. Le code et la documentation spécifiques au projet sont gérés dans un dépôt GitHub séparé, spécifiquement organisé pour faciliter le travail en sprint et la collaboration en équipe.
 
 ### Pourquoi Deux Dépôts ?
 
 - **Dépôt général (ce dépôt)**: Sert de ressource éducative et de référence pour les aspects théoriques et les connaissances générales nécessaires pour aborder le projet pratique. Il doit être consulté pour la préparation aux sessions de cours, l'apprentissage autonome et la préparation du contrôle.
-- **Dépôt ProjOps**: Contient tout ce qui est nécessaire pour travailler sur le projet pratique. Les étudiants interagiront directement avec ce dépôt pour contribuer au code, consulter la documentation de sprint, et soumettre leurs travaux.
+- **Dépôt Gocod**: Contient tout ce qui est nécessaire pour travailler sur le projet pratique. Les étudiants interagiront directement avec ce dépôt pour contribuer au code, consulter la documentation de sprint, et soumettre leurs travaux.
 
 
 

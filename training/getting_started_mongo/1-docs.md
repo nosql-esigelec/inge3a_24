@@ -39,6 +39,7 @@ The output should look like this:
 
    ![Alt text](mongo-data/output-shell.png) 
 
+Exit from the shell using the `exit` command.
 
 2. **Copy the data to you container**
 
