@@ -60,11 +60,12 @@ We will use the Jupyter Notebook to connect to our MongoDB instance and perform 
 
 ### Connect to jupyter using the service jupyter
 ```sh
-docker-compose up -d jupyter
+docker-compose up jupyter
 ``` 
-Open a web browser and navigate to `http://localhost:8888`. Log in using the token `docker`.
+Open the link starting by `http://localhost:8888` in a web browser.
 
-Now you can open the notebook `mongo-with-python.ipynb` and follow the instructions.
+
+Now you can open the notebook `mongo-python.ipynb` located in the directory `work` and follow the instructions.
 
 ## MongoDB Atlas connection
    For connecting to MongoDB Atlas, use:

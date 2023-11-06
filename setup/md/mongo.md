@@ -56,7 +56,7 @@ Dans cette étape, il faut spécifier les adresses IP depuis lesquelles un utili
 
 Les configurations terminées, on obtient cet écran avec une base de données déployée, à laquelle nous pourrons nous connecter plus tard.
 
-![database-deployed](../../assets/images/assetsbase-deployed.png)
+![database-deployed](../../assets/images/database-deployed.png)
 
 Afin de se connecter, nous aurons besoin d'une chaine de connexion. Récupérez là en cliquant sur **Connect**.
 Ensuite, choisissez **Connect using MongoDB Compass**, sélectionner votre système d'exploitation, puis copier l'URL de connexion qui ressemble à celle ci :  `mongodb+srv://brice:<password>@cluster0.5cy4vr9.mongodb.net/test`.
