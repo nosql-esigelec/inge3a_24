@@ -24,7 +24,7 @@ services:
     depends_on:
       - mongo-server
   jupyter:
-    image: jupyter/assetsscience-notebook:latest
+    image: jupyter/datascience-notebook:latest
     container_name: jupyter
     ports:
       - 8888:8888
