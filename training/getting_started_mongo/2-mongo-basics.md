@@ -7,7 +7,7 @@ Avant de commencer ce TP, assurez-vous d'avoir suivi les instructions du [docume
 
 Ouvrez un **terminal**/**invite de commande** et tapez:
 ```PowerShell
-docker exec -it mongo-shell mongosh
+docker exec -it mongo-server mongosh --authenticationDatabase admin -u root -p example
 ```
 La sortie attendue est la suivante :
 ```JS
