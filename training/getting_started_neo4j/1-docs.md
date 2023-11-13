@@ -20,7 +20,7 @@ Welcome to the Neo4j Docker workshop! Today, you'll learn how to run a Neo4j dat
    services:
    neo4j:
       image: neo4j:latest
-      container_name: neo4j-browser
+      container_name: neo4j
       ports:
          - "7474:7474" # HTTP
          - "7687:7687" # Bolt
