@@ -13,7 +13,7 @@ This will be useful to start using MongoDB in our software "Gocod".
 
 Please follow the instructions in the [1-docs.md](1-docs.md) file to setup your MongoDB environment.
 
-After each workshop, get back to the [1-docs.md](1-docs.md) file to setu
+After each workshop, get back to the [1-docs.md](1-docs.md) file to setup your environment for the next workshop.
 ## Workshop 1: MongoDB Basics
 
 **Objective:** 
